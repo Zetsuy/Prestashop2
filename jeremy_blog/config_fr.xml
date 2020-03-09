@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>jeremy_blog</name>
+    <displayName><![CDATA[Jeremy Blog]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Gestion d&#039;un blog]]></description>
+    <author><![CDATA[Jeremy Garcia]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Voulez vous desinstaller le module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
